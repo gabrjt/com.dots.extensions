@@ -1,3 +1,5 @@
+[![openupm](https://img.shields.io/npm/v/com.dots.extensions?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.dots.extensions/)
+
 # DOTS Extensions
 
 DOTS Extensions is not meant to be used as a standalone package.
